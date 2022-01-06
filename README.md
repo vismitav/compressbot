@@ -1,4 +1,4 @@
-## This is a Telegram Video Compress BoT .Prouduct By Binary Tech 💫
+## This is a Telegram Video Compress Bot. Prouduct By Binary Tech 💫
 
 [![videocompressbot](https://telegra.ph/file/ec53b3315ac6b45af0236.jpg)](https://t.me/binary_lk)
 
@@ -8,5 +8,5 @@
 ### Deploy On Heroku .  
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-## full credits 
-[@1danish-00](https://github.com/1Danish-00/CompressorBot)]
+## Full credits 
+[@1danish-00(https://github.com/1Danish-00/CompressorBot)]
